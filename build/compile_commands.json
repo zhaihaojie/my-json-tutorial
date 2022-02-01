@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/zhaihaojie/Desktop/git/my-json-tutorial/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/my_json_tutorial.dir/main.cpp.o -c /Users/zhaihaojie/Desktop/git/my-json-tutorial/main.cpp",
+  "file": "/Users/zhaihaojie/Desktop/git/my-json-tutorial/main.cpp"
+}
+]
