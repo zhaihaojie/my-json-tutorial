@@ -1,0 +1,4 @@
+/Users/zhaihaojie/Desktop/git/my-json-tutorial/tutorial1/build/CMakeFiles/leptjson_test.dir
+/Users/zhaihaojie/Desktop/git/my-json-tutorial/tutorial1/build/CMakeFiles/rebuild_cache.dir
+/Users/zhaihaojie/Desktop/git/my-json-tutorial/tutorial1/build/CMakeFiles/edit_cache.dir
+/Users/zhaihaojie/Desktop/git/my-json-tutorial/tutorial1/build/CMakeFiles/leptjson.dir

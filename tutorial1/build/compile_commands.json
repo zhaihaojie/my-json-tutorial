@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/zhaihaojie/Desktop/git/my-json-tutorial/tutorial1/build",
+  "command": "/usr/bin/clang    -ansi -pedantic -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/leptjson.dir/leptjson.c.o -c /Users/zhaihaojie/Desktop/git/my-json-tutorial/tutorial1/leptjson.c",
+  "file": "/Users/zhaihaojie/Desktop/git/my-json-tutorial/tutorial1/leptjson.c"
+},
+{
+  "directory": "/Users/zhaihaojie/Desktop/git/my-json-tutorial/tutorial1/build",
+  "command": "/usr/bin/clang    -ansi -pedantic -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/leptjson_test.dir/test.c.o -c /Users/zhaihaojie/Desktop/git/my-json-tutorial/tutorial1/test.c",
+  "file": "/Users/zhaihaojie/Desktop/git/my-json-tutorial/tutorial1/test.c"
+}
+]
