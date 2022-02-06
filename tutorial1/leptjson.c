@@ -23,7 +23,6 @@ static int lept_parse_null(lept_context* c,lept_value* v){
     v->type = LEPT_NULL;
     return LEPT_PARSE_OK;
 }
-
 /* true = "true" */
 static int lept_parse_true(lept_context* c,lept_value* v){
     EXPECT(c,'t');
